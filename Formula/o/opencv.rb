@@ -4,6 +4,8 @@ class Opencv < Formula
   license "Apache-2.0"
   revision 6
 
+  compatibility_version 1
+
   stable do
     url "https://github.com/opencv/opencv/archive/refs/tags/4.13.0.tar.gz"
     sha256 "1d40ca017ea51c533cf9fd5cbde5b5fe7ae248291ddf2af99d4c17cf8e13017d"
