@@ -4,6 +4,8 @@ class Pmix < Formula
   license "BSD-3-Clause"
   revision 1
 
+  compatibility_version 1
+
   stable do
     url "https://github.com/openpmix/openpmix/releases/download/v5.0.10/pmix-5.0.10.tar.bz2"
     sha256 "78663f6b932589d68e24feaf7f8a948d60be68d91965f3effbacb4cd88cf9a95"
