@@ -4,6 +4,8 @@ class CeresSolver < Formula
   license "BSD-3-Clause"
   revision 6
 
+  compatibility_version 1
+
   stable do
     url "https://distfiles.macports.org/ceres-solver/ceres-solver-2.2.0.tar.gz"
     mirror "http://ceres-solver.org/ceres-solver-2.2.0.tar.gz"
