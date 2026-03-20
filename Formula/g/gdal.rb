@@ -5,6 +5,7 @@ class Gdal < Formula
   sha256 "458a899feea38000258144517fedc6662ebba255971669d2901ba77e9e8fbf79"
   license "MIT"
   revision 2
+  compatibility_version 1
 
   livecheck do
     url "https://download.osgeo.org/gdal/CURRENT/"
