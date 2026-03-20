@@ -4,6 +4,7 @@ class Libde265 < Formula
   url "https://github.com/strukturag/libde265/releases/download/v1.0.17/libde265-1.0.17.tar.gz"
   sha256 "e919bbe34370fbcfa36c48ecc6efd5c861f7df43b9a58210e68350d43bab71a5"
   license "LGPL-3.0-or-later"
+  compatibility_version 1
 
   bottle do
     sha256 cellar: :any,                 arm64_tahoe:   "fe4d87cc31754c2b6978c0e8a0b09d45d5cea0549e9073632bd30f8b7c19fa56"
