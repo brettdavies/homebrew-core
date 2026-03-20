@@ -4,6 +4,8 @@ class Crystal < Formula
   license "Apache-2.0"
   revision 1
 
+  compatibility_version 1
+
   stable do
     url "https://github.com/crystal-lang/crystal/archive/refs/tags/1.19.1.tar.gz"
     sha256 "2f9cfaa6bdc872f6e89d483cfe474f35232e5dd4a33dcc05ec69e5fadb2b0257"
